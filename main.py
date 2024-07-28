@@ -1,5 +1,6 @@
 import color_code_map
 
+# new functionality added - coding to be printed as a reference manual. This manual is a mapping from the color-names to the corresponding numbers
 def generate_color_manual():
     manual = []
     for major_color in color_code_map.MAJOR_COLORS:
