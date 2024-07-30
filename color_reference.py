@@ -1,4 +1,5 @@
-from color_coding_utility import MAJOR_COLORS, MINOR_COLORS, color_pair_to_string, get_pair_number_from_color
+#from color_coding_utility import MAJOR_COLORS, MINOR_COLORS, color_pair_to_string, get_pair_number_from_color
+import color_coding_utility
 
 # new functionality added - coding to be printed as a reference manual. This manual is a mapping from the color-names to the corresponding numbers
 def generate_color_manual():
