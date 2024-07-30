@@ -1,4 +1,5 @@
 import color_code_map
+import color_code_test
 
 # new functionality added - coding to be printed as a reference manual. This manual is a mapping from the color-names to the corresponding numbers
 def generate_color_manual():
