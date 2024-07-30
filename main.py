@@ -1,5 +1,6 @@
 import color_code_map
 import color_code_test
+import color_code_manual
 
 if __name__ == '__main__':
     # test cases
