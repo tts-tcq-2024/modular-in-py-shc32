@@ -1,4 +1,5 @@
 from color_code_test import test_number_to_pair, test_pair_to_number
+from color_reference import print_color_manual
 
 if __name__ == '__main__':
     # test cases
