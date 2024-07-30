@@ -1,4 +1,4 @@
-from color_code_map import MAJOR_COLORS, MINOR_COLORS, color_pair_to_string, get_pair_number_from_color
+from color_coding_utility import MAJOR_COLORS, MINOR_COLORS, color_pair_to_string, get_pair_number_from_color
 from color_code_test import test_number_to_pair, test_pair_to_number
 
 # new functionality added - coding to be printed as a reference manual. This manual is a mapping from the color-names to the corresponding numbers
