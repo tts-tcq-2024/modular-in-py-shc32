@@ -10,5 +10,5 @@ if __name__ == '__main__':
     test_pair_to_number('Red', 'Orange', 7)
     print('All tests passed!')
     
-    # color code manual generation 
+    # color code reference manual
     print_color_manual()
